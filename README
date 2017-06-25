@@ -1,6 +1,7 @@
 This is my enhanced version of this plugin, with full support for fossil. It even integrates well with powerline/airline.
 
-*Original README (+fossil):*
+
+Original README (+fossil):
 
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=90
 
